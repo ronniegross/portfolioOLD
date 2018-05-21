@@ -9,20 +9,26 @@ body {
     color: #FF485F;
     display: flex;
     justify-content: space-between;
-    background-color: #F6F6F6;
+    background-color:#F6F6F6;
+    height: 5vw;
 }
 .navbarItem{
 	display: inline;
 }
 .title {
+	font-size: 18px;
 	margin-left: 5%;
+	margin-top: 1.25vw;
 }
 .name {
 	font-size: 24px;
 	font-weight: bold;
+	margin-top: 1.25vw;
 }
 .contact {
+	font-size: 18px;
 	margin-right: 5%;
+	margin-top: 1.25vw;
 }
 .row {
 	width: 92vw;
