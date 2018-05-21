@@ -1,0 +1,42 @@
+body {
+	background-color: #F6F6F6;
+}
+.navbar {
+	font-family: "helvetica";
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: #FF485F;
+    display: flex;
+    justify-content: space-between;
+    background-color: #F6F6F6;
+}
+.navbarItem{
+	display: inline;
+}
+.title {
+	margin-left: 5%;
+}
+.name {
+	font-size: 24px;
+	font-weight: bold;
+}
+.contact {
+	margin-right: 5%;
+}
+.row {
+	width: 92vw;
+	margin: 10px 4% 0 4%;
+}
+.leftSquare {
+	width: 46vw;
+	height: 46vw;
+	background-color: #FF485F;
+	float:left;
+}
+.rightSquare {
+	width: 46vw;
+	height: 46vw;				
+	background-color: #FFFEF7;
+	float: right;
+}
