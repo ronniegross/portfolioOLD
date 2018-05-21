@@ -44,15 +44,15 @@ body {
 	height: 46vw;				
 	float: right;
 }
-.topLeft {
+.red {
 	background-color: #FF485F;
 }
-.topRight {
+.offWhite {
 	background-color: #FFFEF7;
 }
-.middleLeft {
+.blueGreen {
 	background-color: #50E3C2
 }
-.middleRight {
+.tan {
 	background-color: #FFFBC9
 }
