@@ -37,12 +37,22 @@ body {
 .leftSquare {
 	width: 46vw;
 	height: 46vw;
-	background-color: #FF485F;
 	float:left;
 }
 .rightSquare {
 	width: 46vw;
 	height: 46vw;				
-	background-color: #FFFEF7;
 	float: right;
+}
+.topLeft {
+	background-color: #FF485F;
+}
+.topRight {
+	background-color: #FFFEF7;
+}
+.middleLeft {
+	background-color: #50E3C2
+}
+.middleRight {
+	background-color: #FFFBC9
 }
