@@ -56,3 +56,9 @@ body {
 .tan {
 	background-color: #FFFBC9
 }
+.circle {
+  height: 37vw;
+  width: 37vw;
+  margin: 4.5vw 0 0 4.5vw;
+  border-radius: 50%;
+}
